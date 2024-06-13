@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68a076e7dedf4411b96ca259dc65ce59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_InteractionManager: {fileID: 0}
+  m_InteractionManager: {fileID: 1117880596}
   m_InteractionLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -362,7 +362,7 @@ MonoBehaviour:
   m_OnSelectExited:
     m_PersistentCalls:
       m_Calls: []
-  m_XROrigin: {fileID: 0}
+  m_XROrigin: {fileID: 1487858451}
   m_RaycastMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -1392,7 +1392,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc3d7be0a1b704dc7a751d5e2d0edd53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_InteractionManager: {fileID: 0}
+  m_InteractionManager: {fileID: 1117880596}
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
@@ -1482,10 +1482,11 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_XROrigin: {fileID: 0}
+  m_XROrigin: {fileID: 1487858451}
   m_ExcludeUITouches: 1
   m_ARSessionOrigin: {fileID: 0}
-  m_PlacementPrefab: {fileID: 0}
+  m_PlacementPrefab: {fileID: 1834008397993941099, guid: a647a884ee5a59a4599d43b4e266068a,
+    type: 3}
   m_FallbackLayerMask:
     serializedVersion: 2
     m_Bits: 0
